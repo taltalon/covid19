@@ -1,0 +1,35 @@
+Hi All,
+Here you will find the masks I personally use (or have used) during this pandemic and links where to get those.
+
+== Ear Loops (hence KN95) ==
+- 3M 9501+ - KN95 - https://www.aliexpress.com/item/1005001808919482.html
+- 3M 9501V+ -KN95 (this has a valve and good for outdoors only for easy breathing. do not use in closed spaces) - https://www.aliexpress.com/item/1005001809365534.html
+
+== Headbands (N95, KN95) ==
+- 3M 9502+ both KN95 and N95 - https://www.aliexpress.com/item/1005001808919482.html or https://www.aliexpress.com/item/1005001876870943.html
+- 3M 9502V+ (this has a valve and good for outdoors only for easy breathing. do not use in closed spaces)- https://www.aliexpress.com/item/1005001809365534.html
+- 3M 9010CN - N95 provided in China by 3M. Still fully N95 NIOSH certified - https://www.aliexpress.com/item/4001201222933.html
+- 3M 9010 - N95 in the USA - https://www.aliexpress.com/item/4001201222933.html
+
+== KIDS Mask - for my 9 year old daughter ==
+- Dr Puri KF94 Mask. Size S (Small) - this mask got extremely well filtraion score @masknerd - https://www.amazon.com/dp/B08N66VVKL?ref_=cm_sw_r_cp_ud_dp_R6ZKJ84W6JRDFT7H7X3C
+
+== !! LEAST protection but easy breathing - best for outdoors. Not recommended at closed space !! ==
+- Senovia Pro:  This mask is an upgraded cloth mask with Zinc embded in the fabric which suppose to kill viruses.
+                Per @masknerd benchmarks - this mask only provides 60% filtration. Hence not comaprable to N95/KN95/FFP2
+                Source -> https://twitter.com/masknerd/status/1484027230409928704?s=21&t=kLm_lnZYWvjP9qYNqENEMA
+                
+                Add another mask beneath it - i.e double mask - sergical/plain mask + the Senovia Pro
+
+- SN98:         This is an Israeli made high quality plain mask. I use it with the Senovia Pro. **Double Masking**
+
+When buying on Aliexpress, I so far trust only this store: MMM Protect
+
+* Amazon now have 3M N95 masks to buy that can be shipped to Israel:
+  - 3M 9010 - https://www.amazon.com/dp/B0076HIPCU?ref_=cm_sw_r_cp_ud_dp_6CC0YDK1YM3YC8D7VSSN
+  - 3M Aura 9205+ - https://www.amazon.com/dp/B095FJ36H2?ref_=cm_sw_r_cp_ud_dp_7BDCK93JHGN9YM9FDVDK
+
+>> Aaron Collins (@masknerd) Mask Testing Datasets <<
+- Folder -> https://drive.google.com/drive/folders/1eE2BERAvRzs28kG87ft3a27FS9-gHvdC
+- Main -> https://docs.google.com/spreadsheets/d/1M0mdNLpTWEGcluK6hh5LjjcFixwmOG853Ff45d3O-L0/edit#gid=1976839763
+- Kids Masks -> https://docs.google.com/spreadsheets/d/1i06OAItoOwIUaMjElr8mhh0Rw-it6WL-ODIQMZUOQxE/edit#gid=0
